@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$APPLICATION_CONFIG_DIR$/settingsSync" vcs="Git" />
+    <mapping directory="$USER_HOME$/Documents/DevBack.Refactoring/DevBack.Refactoring" vcs="Git" />
+    <mapping directory="$USER_HOME$/Documents/DevBack.Refactoring/DevBack.Refactoring-test" vcs="Git" />
+  </component>
+</project>
